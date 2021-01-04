@@ -1,10 +1,5 @@
-# Question-Answering-with-keywords
+# Semantic-Search-Engine
 Building a scalable semantic search engine using Haystack, Elasticsearch and Transformers.
-
-## Jupyter Notebook
-Run the notebook on Kaggle with GPU:
-
-[https://www.kaggle.com/rowhitswami/question-answering-with-keywords](https://www.kaggle.com/rowhitswami/question-answering-with-keywords)
 
 ## 1. Approach of the solution
 * **Which ML/DL model architecture you used and why?**
